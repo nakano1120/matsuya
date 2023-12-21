@@ -1,0 +1,49 @@
+body{
+    position:relative;
+    display:inline-block;
+    width:100%;
+    margin:0 auto;
+    text-align:center;
+    background-color:#fff460;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size:2vw;
+}
+#main{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    display:inline-block;
+    width:80vw;
+    background-color:rgba(248, 246, 124, 0.89)
+}
+#banner{
+    background-color:#ffa640;
+    
+    font-size:4vw;
+    padding:1vh 0;
+}
+.mat{
+    color:#cc0033;
+    font-size:6vw;
+}
+img{
+    width:13vw;
+}
+#textmain{
+    background-color:#fff9a9;
+    padding:1vw 0;
+}
+p{
+    padding:1vw;
+}
+.imghead{
+    width:50vw;
+    height:auto;
+}
+.color{
+    width:100%;
+    background-color:#ffa640;
+    color:#fefefe;
+    padding:1vw 0;
+}
+.menu{
+    width:30vw;
+}
